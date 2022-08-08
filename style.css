@@ -1,0 +1,4 @@
+body {
+  display: grid;
+  animation: alternate;
+}
